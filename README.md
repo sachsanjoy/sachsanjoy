@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachsanjoy
-- 👀 I’m interested in artistic visualizations in science
 - 🌱 I’m currently doing my PhD in astronomy (Stellar Evolution).
--    I’m looking to collaborate on working with scientific visualizations and developing web tools for astronomy 
+- 👀 I’m interested in making scientific visualizations in the field related to science
+- :)  I’m looking to collaborate on working with scientific visualizations and developing web tools for general astronomy. 
 - 📫 You could reach me via my email <sachu@camk.edu.pl>, gmail <sachusanjayan@gmail.com>, <ig> sachsanjoy
 
 <!---
